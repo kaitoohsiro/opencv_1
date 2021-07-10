@@ -1,0 +1,3 @@
+/Users/dachenghaidou/research/oyster/code/c++/opencv_test/build/CMakeFiles/rebuild_cache.dir
+/Users/dachenghaidou/research/oyster/code/c++/opencv_test/build/CMakeFiles/edit_cache.dir
+/Users/dachenghaidou/research/oyster/code/c++/opencv_test/build/CMakeFiles/Main.dir
